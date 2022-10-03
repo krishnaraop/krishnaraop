@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: upcoming billionaire :)
 
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaraop)](https://github.com/krishnaraop/github-readme-stats)
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaraop&show_icons=true&theme=radical)](https://github.com/krishnaraop/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaraop)](https://github.com/krishnaraop/github-readme-stats)
